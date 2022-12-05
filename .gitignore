@@ -1,0 +1,13 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+*.dll
+*.pdb
+*.exe
+*.cache
+/GrpcMini/.vs/GrpcMini
+/GrpcMini/demo/Client/obj
+/GrpcMini/demo/Proto/obj
+/GrpcMini/demo/Server/obj
+/GrpcMini/src/GrpcMini/obj
